@@ -1,0 +1,333 @@
+DIABETES - SYMPTOMS, CAUSES, AND MANAGEMENT
+Source: WHO Health FAQ Guidelines | Medical Encyclopedia Reference
+
+WHAT IS DIABETES?
+Diabetes mellitus is a chronic metabolic disease characterized by elevated blood glucose (blood sugar) levels. It occurs when the pancreas does not produce enough insulin (Type 1 diabetes) or when the body cannot effectively use the insulin it produces (Type 2 diabetes).
+
+SYMPTOMS OF DIABETES
+Common symptoms of diabetes include:
+- Frequent urination (polyuria)
+- Increased thirst (polydipsia)
+- Unexplained weight loss
+- Extreme fatigue and weakness
+- Blurred vision
+- Slow-healing sores or frequent infections
+- Tingling, numbness, or pain in hands or feet (neuropathy)
+- Presence of ketones in urine (more common in Type 1)
+
+TYPES OF DIABETES
+Type 1 Diabetes: The immune system attacks insulin-producing beta cells in the pancreas. Requires daily insulin injections. Usually diagnosed in children and young adults.
+Type 2 Diabetes: Most common form (90-95% of cases). Body doesn't use insulin well. Linked to obesity, physical inactivity, and family history. Can often be managed with lifestyle changes and oral medications.
+Gestational Diabetes: Develops during pregnancy. Usually resolves after delivery but increases the mother's risk for Type 2 diabetes.
+
+CAUSES AND RISK FACTORS
+- Family history of diabetes
+- Overweight or obesity (BMI > 25)
+- Physical inactivity
+- Age over 45 years
+- History of gestational diabetes
+- Prediabetes
+- High blood pressure (above 140/90 mmHg)
+- Abnormal cholesterol levels
+
+PREVENTION OF TYPE 2 DIABETES
+- Achieve and maintain a healthy body weight
+- Be physically active: at least 30 minutes of moderate exercise on most days
+- Eat a healthy diet of fruit, vegetables, and whole grains
+- Avoid sugar and saturated fats
+- Avoid tobacco use, which increases the risk of cardiovascular disease
+
+MANAGEMENT AND TREATMENT
+- Blood glucose monitoring
+- Insulin therapy (required for Type 1; sometimes needed for Type 2)
+- Oral medications (e.g., Metformin for Type 2)
+- Dietary management: low glycemic index foods, portion control
+- Regular physical activity
+- Regular medical check-ups for complications (eyes, kidneys, feet, heart)
+
+COMPLICATIONS OF UNCONTROLLED DIABETES
+- Cardiovascular disease (heart attack, stroke)
+- Neuropathy (nerve damage)
+- Nephropathy (kidney disease)
+- Retinopathy (eye disease, leading to blindness)
+- Foot damage leading to amputation
+- Increased susceptibility to infections
+
+---
+
+HYPERTENSION (HIGH BLOOD PRESSURE) - FAQ
+Source: WHO Cardiovascular Disease Guidelines
+
+WHAT IS HIGH BLOOD PRESSURE?
+Hypertension is defined as blood pressure consistently at or above 140/90 mmHg. It is often called the "silent killer" because it usually has no symptoms but significantly increases the risk of heart disease, stroke, and kidney failure.
+
+NORMAL BLOOD PRESSURE RANGES
+- Normal: Less than 120/80 mmHg
+- Elevated: 120-129 / less than 80 mmHg
+- High Stage 1: 130-139 / 80-89 mmHg
+- High Stage 2: 140 or higher / 90 or higher mmHg
+- Hypertensive Crisis: Higher than 180/120 mmHg — requires immediate emergency care
+
+SYMPTOMS OF HIGH BLOOD PRESSURE
+Most people with hypertension have NO symptoms. When symptoms occur, they may include:
+- Severe headache
+- Fatigue or confusion
+- Vision problems
+- Chest pain
+- Difficulty breathing
+- Irregular heartbeat
+- Blood in the urine
+- Pounding in the chest, neck, or ears
+
+CAUSES OF HIGH BLOOD PRESSURE
+Primary hypertension: No single cause; develops gradually over many years due to:
+- Increasing age
+- Family history (genetics)
+- Being overweight or obese
+- Lack of physical activity
+- Too much salt (sodium) in the diet
+- Too little potassium in the diet
+- Tobacco use
+- Excessive alcohol consumption
+- Chronic stress
+
+Secondary hypertension: Caused by an underlying condition, such as kidney disease, thyroid problems, or certain medications.
+
+PREVENTION AND LIFESTYLE CHANGES
+- Eat a healthy, balanced diet (DASH diet recommended)
+- Reduce sodium intake to less than 5g per day
+- Engage in regular physical activity (at least 150 minutes per week)
+- Maintain healthy weight
+- Limit alcohol consumption
+- Do not smoke
+- Manage stress through relaxation techniques
+
+---
+
+HEART ATTACK - RECOGNITION AND EMERGENCY RESPONSE
+Source: WHO Cardiovascular Disease FAQ | Emergency Medical Guidelines
+
+SIGNS AND SYMPTOMS OF A HEART ATTACK
+A heart attack (myocardial infarction) occurs when blood flow to part of the heart is blocked. Recognize these warning signs:
+- Chest pain, pressure, tightness, or squeezing sensation, often lasting more than a few minutes
+- Pain or discomfort radiating to the arm (often left arm), back, neck, jaw, or stomach
+- Shortness of breath, with or without chest discomfort
+- Cold sweat, nausea, or lightheadedness
+- Unusual fatigue (especially in women)
+
+EMERGENCY ACTION FOR HEART ATTACK
+🚨 CALL EMERGENCY SERVICES IMMEDIATELY (911 or local emergency number)
+- Do NOT drive yourself to the hospital
+- Chew an aspirin (325mg) if not allergic and if available
+- Loosen tight clothing
+- If the person is unconscious and not breathing, begin CPR if trained
+
+RISK FACTORS FOR HEART DISEASE
+- High blood pressure
+- High cholesterol
+- Smoking
+- Diabetes
+- Obesity
+- Sedentary lifestyle
+- Family history of heart disease
+- Age (men over 45, women over 55)
+- Stress
+
+---
+
+COVID-19 - SYMPTOMS AND PREVENTION
+Source: WHO COVID-19 Technical Guidance
+
+SYMPTOMS OF COVID-19
+COVID-19 can cause a wide range of symptoms. Most common:
+- Fever or chills
+- Cough (often dry)
+- Shortness of breath or difficulty breathing
+- Fatigue
+- Muscle or body aches
+- Headache
+- New loss of taste or smell
+- Sore throat
+- Congestion or runny nose
+- Nausea or vomiting
+- Diarrhea
+
+Symptoms may appear 2-14 days after exposure to the virus.
+
+SEEK EMERGENCY MEDICAL CARE IF YOU EXPERIENCE:
+🚨 Trouble breathing, persistent chest pain, confusion, inability to stay awake, bluish lips or face.
+
+PREVENTION OF COVID-19
+- Get vaccinated with an approved COVID-19 vaccine
+- Wear a properly fitted mask in crowded or poorly ventilated indoor spaces
+- Maintain at least 1 metre distance from others
+- Wash hands frequently with soap and water for at least 20 seconds
+- Avoid touching eyes, nose, and mouth
+- Cover coughs and sneezes
+- Stay home and self-isolate if feeling unwell
+- Ensure good ventilation indoors
+
+---
+
+ANTIBIOTICS - SAFE USE AND SIDE EFFECTS
+Source: WHO Antibiotic Resistance FAQ | Medical Encyclopedia
+
+WHAT ARE ANTIBIOTICS?
+Antibiotics are medicines used to prevent and treat bacterial infections. They work by killing or inhibiting the growth of bacteria. They are NOT effective against viral infections such as the common cold, flu, or COVID-19.
+
+COMMON SIDE EFFECTS OF ANTIBIOTICS
+- Nausea, vomiting, and diarrhea
+- Stomach pain and cramping
+- Loss of appetite
+- Rash or skin reactions
+- Yeast infections (due to disruption of normal flora)
+- Sensitivity to sunlight
+- Tendon damage (rare, with fluoroquinolones)
+- Allergic reactions (can be severe; anaphylaxis is rare but possible)
+
+WHEN TO SEE A DOCTOR URGENTLY
+- Severe allergic reaction: difficulty breathing, swelling of face/throat, rapid heartbeat
+- Severe diarrhea or blood in stool (could indicate C. difficile infection)
+- Severe skin rash
+
+ANTIBIOTIC RESISTANCE
+Antibiotic resistance occurs when bacteria evolve and become resistant to antibiotics. Key points:
+- Always complete the full prescribed course of antibiotics
+- Never share antibiotics or use leftover antibiotics
+- Never demand antibiotics if your doctor says they are not needed
+- Prevent infections through hygiene and vaccination
+
+---
+
+MENTAL HEALTH - DEPRESSION AND ANXIETY
+Source: WHO Mental Health Action Plan | Medical Encyclopedia
+
+SYMPTOMS OF DEPRESSION
+Depression is a common mental health disorder. Symptoms include:
+- Persistent sad, anxious, or empty mood
+- Loss of interest or pleasure in activities once enjoyed
+- Feelings of hopelessness, worthlessness, or excessive guilt
+- Fatigue and decreased energy
+- Difficulty concentrating, remembering, or making decisions
+- Insomnia or oversleeping
+- Changes in appetite and weight
+- Thoughts of death or suicide
+- Physical symptoms with no clear cause (headaches, digestive disorders)
+
+If you or someone you know is having thoughts of suicide, contact a crisis helpline immediately.
+
+MANAGING ANXIETY NATURALLY
+Lifestyle strategies to reduce anxiety:
+- Regular physical exercise (reduces stress hormones like cortisol)
+- Adequate sleep (7-9 hours per night)
+- Mindfulness and meditation practices
+- Deep breathing exercises and relaxation techniques
+- Limiting caffeine and alcohol
+- Maintaining social connections
+- Journaling or expressive writing
+- Limiting news and social media consumption
+
+COGNITIVE BEHAVIORAL THERAPY (CBT)
+CBT is a structured, evidence-based psychotherapy for depression, anxiety, and other mental health conditions. It helps patients:
+- Identify negative thinking patterns
+- Challenge and reframe distorted thoughts
+- Develop coping strategies
+- Gradually face feared situations (for anxiety)
+CBT is typically delivered in 12-20 sessions and has strong scientific evidence for effectiveness.
+
+EFFECTS OF STRESS ON PHYSICAL HEALTH
+Chronic stress can cause significant physical health problems:
+- Cardiovascular: increased heart rate, high blood pressure, increased risk of heart disease
+- Immune system: weakened immunity, increased susceptibility to illness
+- Digestive: stomach ulcers, irritable bowel syndrome
+- Musculoskeletal: tension headaches, muscle pain
+- Hormonal: disrupted menstrual cycles, sexual dysfunction
+- Sleep: insomnia and fatigue
+
+---
+
+VACCINATIONS FOR ADULTS
+Source: WHO Immunization FAQ | CDC Adult Immunization Schedule
+
+RECOMMENDED VACCINES FOR ADULTS
+Influenza (Flu): Annually for all adults, especially those over 65, pregnant women, and those with chronic conditions.
+COVID-19: Primary series plus boosters as recommended based on current guidelines.
+Tdap/Td (Tetanus, Diphtheria, Pertussis): Tdap once, then Td booster every 10 years.
+Pneumococcal vaccines (PCV15, PCV20, PPSV23): Recommended for adults 65+ and adults with certain medical conditions.
+Shingles (Zoster): Two doses of Shingrix for adults 50 years and older.
+MMR (Measles, Mumps, Rubella): For adults born after 1957 without evidence of immunity.
+Hepatitis A and B: Recommended for adults at increased risk.
+HPV vaccine: Recommended through age 26; some adults 27-45 may benefit.
+
+SIDE EFFECTS OF VACCINES
+Common, mild side effects (normal immune response):
+- Soreness, redness, or swelling at injection site
+- Fever
+- Fatigue and headache
+These usually resolve within 1-3 days.
+
+---
+
+NUTRITION AND HEART HEALTH
+Source: WHO Diet and Nutrition Guidelines
+
+FOODS BENEFICIAL FOR HEART HEALTH
+- Fruits and vegetables: at least 400g (5 portions) per day
+- Whole grains: oats, barley, brown rice, whole wheat
+- Fatty fish: salmon, mackerel, sardines (omega-3 fatty acids)
+- Nuts and seeds: walnuts, flaxseeds, chia seeds
+- Legumes: beans, lentils, chickpeas
+- Olive oil (monounsaturated fats) instead of saturated fats
+- Foods low in sodium
+
+FOODS TO LIMIT OR AVOID
+- Trans fats (partially hydrogenated oils): raise LDL cholesterol
+- Saturated fats: red meat, full-fat dairy products
+- Added sugars and sugary drinks
+- Excess sodium (salt): limit to less than 5g/day
+- Processed and ultra-processed foods
+- Excessive alcohol
+
+DASH DIET (Dietary Approaches to Stop Hypertension)
+The DASH diet is recommended to lower blood pressure:
+- Rich in fruits, vegetables, whole grains, and low-fat dairy
+- Includes lean meats, fish, and nuts
+- Limits foods high in saturated fats, cholesterol, and sodium
+- Limits sweets and sugar-sweetened beverages
+
+EXERCISE RECOMMENDATIONS (WHO Guidelines)
+Adults (18-64 years):
+- At least 150-300 minutes of moderate-intensity aerobic activity per week, OR
+- At least 75-150 minutes of vigorous-intensity aerobic activity per week
+- Muscle-strengthening activities on 2 or more days per week
+
+Adults 65 and older:
+- Same as adults, with additional emphasis on balance and fall prevention exercises
+
+---
+
+FEVER IN CHILDREN - MANAGEMENT GUIDE
+Source: WHO Child Health FAQ | Pediatric Medical Encyclopedia
+
+WHAT IS A FEVER IN CHILDREN?
+A fever is a body temperature above 38°C (100.4°F). It is usually a sign that the body is fighting an infection.
+
+WHEN TO SEEK IMMEDIATE MEDICAL CARE
+🚨 Call a doctor or emergency services if the child:
+- Is under 3 months old with a temperature of 38°C (100.4°F) or higher
+- Has a fever above 39°C (102.2°F) that does not respond to medication
+- Has a fever lasting more than 2-3 days
+- Appears very ill, lethargic, or is difficult to wake
+- Has difficulty breathing
+- Has a rash along with fever
+- Has a febrile seizure (convulsion)
+- Is severely dehydrated (no tears when crying, dry mouth, no urination for 8 hours)
+
+MANAGING FEVER AT HOME
+- Keep the child cool and comfortable
+- Dress lightly
+- Ensure adequate fluid intake to prevent dehydration
+- Use acetaminophen (paracetamol) or ibuprofen as directed by dosage guidelines based on weight
+- Do NOT give aspirin to children (risk of Reye's syndrome)
+- Sponge baths with lukewarm water may help
+- Monitor temperature regularly
