@@ -137,4 +137,4 @@ MediAssist AI strictly adheres to digital health safety standards:
 * **Printable Citations**: Grounding data maps directly to the active files in the knowledge base, ensuring transparency and absolute verifiability.
 
 ---
-*Created for the SISTec AI RAG Assistant competition. Built with excellence.*
+* Built with excellence.*
